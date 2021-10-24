@@ -1,4 +1,4 @@
-# Hi Everyone 👋
+# Hi Everyone, Everybody, And Everywhere 👋
 My name is Aditya Fitriana Nursoleh
 
 

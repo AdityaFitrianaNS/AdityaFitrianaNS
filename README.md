@@ -1,5 +1,6 @@
 # Hi Everyone, and Everybody 👋
-My name is Aditya Fitriana Nursoleh
+
+My name is Aditya Fitriana Nursoleh. よろしく👋
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=AdityaFitrianaNS&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>

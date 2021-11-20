@@ -9,4 +9,4 @@ My name is Aditya Fitriana Nursoleh
 
 ||
 |---|
-|<center><img src="./trex.gif"/></center>|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS)](https://github.com/AdityaFitrianaNS/github-readme-stats)

@@ -10,4 +10,4 @@ My name is Aditya Fitriana Nursoleh. よろしく👋
 
 ||
 |---|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS)](https://github.com/AdityaFitrianaNS/github-readme-stats)

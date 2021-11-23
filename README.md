@@ -1,8 +1,8 @@
 # Hi Everyone 👋
-
+<h2>📝 About Me</h2>
 My name is Aditya Fitriana Nursoleh. よろしく👋
-
-
+<li>📖 I'm Currently Learning Dart, and 🚀Framework Flutter</li>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/?username=AdityaFitrianaNS&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
 # Favorite Code

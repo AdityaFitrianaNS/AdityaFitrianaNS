@@ -4,7 +4,7 @@ My name is Aditya Fitriana NS. よろしく👋
 <li> 📖 I'm Currently Learn PHP8 and Framework front-end</li>
 <li> 📝 Docs-team in <a href="https://github.com/bellshade"> Bellshade </a></li>
 <li> Gallery My Project : https://gallery-adityafns.netlify.app/ </li>
-<li> <b>Sorry for many private repositories</b> </li>
+<li> <b>Sorry for the private repository</b> </li>
 <br>
 <img src="https://komarev.com/ghpvc/?username=AdityaFitrianaNS&style=for-the-badge">
 

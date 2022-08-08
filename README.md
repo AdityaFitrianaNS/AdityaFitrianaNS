@@ -2,7 +2,7 @@
 <h3> Hi Everyone 👋 </h3>
 My name is Aditya Fitriana NS. よろしく👋
 <li> 📖 I'm Currently Learn PHP8 and Framework front-end</li>
-<li> 📝 Docs-team in <a href="https://github.com/bellshade"> Bellshade </a></li>
+<li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> as Docs-team</li>
 <li> Discord WPU as Moderator <a href="https://discord.com/invite/S4rrXQU"> Link Discord </a></li>
 <br>
 

@@ -2,7 +2,7 @@
 <h3> Hi Everyone 👋 </h3>
 My name is Aditya Fitriana NS. よろしく👋
 <li> 📖 I'm Currently Learn PHP8. File <a href="https://github.com/AdityaFitrianaNS/Archive-my-portfolio/tree/main/PHP8"> repositories </a></li>
-<li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> as Docs-team</li>
+<li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> as Docs repositories <a href="https://github.com/bellshade/SQL">SQL</a> and <a href="https://github.com/bellshade/Assembly">Assembly</a></li>
 <li> Discord WPU as Moderator <a href="https://discord.com/invite/S4rrXQU"> Link Discord </a></li>
 <li> Gallery my <a href="https://gallery-aditya.site/"> project </a></li>
 <li> Follow Me <br> </li>

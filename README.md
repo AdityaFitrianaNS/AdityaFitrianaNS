@@ -12,7 +12,7 @@ My name is Aditya Fitriana NS. よろしく👋
 
 ## Web Development
 <li> <b>Frontend</b> : HTML5, CSS3, and Bootstrap5 </li>
-<li> <b>Backend</b> : PHP8 and MySQL </li>
+<li> <b>Backend</b> : MySQL, PHP8, Laravel8 </li>
 
 ## Code Editor
 <li> <b>Visual Studio Code</b></li>

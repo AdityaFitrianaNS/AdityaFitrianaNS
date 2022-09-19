@@ -24,6 +24,6 @@ A backend developer with more than 1 years experience using PHP, JQuery, MySQL, 
 <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" alt="todoist">
 
 ## 📊 Analystics
-<img alt="graph" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaFitrianaNS"/>
-<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="415"/>
+<img alt="graph" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaFitrianaNS" width="450"/>
+<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="375"/>
 <img alt="graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaFitrianaNS&theme=minimal"/>

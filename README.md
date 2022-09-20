@@ -26,4 +26,3 @@ A backend developer with more than 1 years experience using PHP, JQuery, MySQL, 
 ## 📊 Analystics
 <img alt="graph" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaFitrianaNS" width="450"/>
 <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="375"/>
-<img alt="graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaFitrianaNS&theme=minimal"/>

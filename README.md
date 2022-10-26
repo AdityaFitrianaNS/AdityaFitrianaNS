@@ -18,4 +18,4 @@ A backend developer with more than 1 years experience using PHP, JQuery, MySQL, 
 
 
 ## 📊 Analystics
-<img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaFitrianaNS&show_icons=true&theme=dracula" width="450"/> <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="375"/>
+<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="375"/>

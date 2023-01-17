@@ -3,8 +3,8 @@
 
 ## 📝 About Me
 A backend developer with more than 1 years experience using PHP, JQuery, MySQL, and Git for version control. <br>
-<li> 📖 I'm Currently Learn Laravel </li>
-<li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> as Docs repositories <a href="https://github.com/bellshade/SQL">SQL</a> and <a href="https://github.com/bellshade/Assembly">Assembly</a></li>
+<li> 📖 I'm Currently Learning Laravel </li>
+<li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> for Docs repositories <a href="https://github.com/bellshade/SQL">SQL</a> and <a href="https://github.com/bellshade/Assembly">Assembly</a></li>
 <li> Discord WPU as Moderator <a href="https://discord.com/invite/S4rrXQU"> Link Discord </a></li>
 <li> Follow Me <br> </li>
 <li>
@@ -17,5 +17,5 @@ A backend developer with more than 1 years experience using PHP, JQuery, MySQL, 
 
 
 
-## 📊 Analystics
+## 📊 Analytics
 <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaFitrianaNS&layout=compact" width="375"/>

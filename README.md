@@ -2,10 +2,9 @@
 <h3> My name is Aditya Fitriana Nursoleh. よろしく👋 </h3>
 
 ## 📝 About Me
-A backend developer with more than 1 years experience using PHP, JQuery, MySQL, and Git for version control. <br>
+A backend developer using PHP, JQuery, MySQL, and Git for version control. <br>
 <li> 📖 I'm Currently Learning Laravel </li>
 <li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> for Docs repositories <a href="https://github.com/bellshade/SQL">SQL</a> and <a href="https://github.com/bellshade/Assembly">Assembly</a></li>
-<li> Discord WPU as Moderator <a href="https://discord.com/invite/S4rrXQU"> Link Discord </a></li>
 <li> Follow Me <br> </li>
 <li>
 <a href="https://www.deviantart.com/adityafns"> <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="devianart"> </a>

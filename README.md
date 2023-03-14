@@ -2,8 +2,8 @@
 <h3> My name is Aditya Fitriana Nursoleh. よろしく👋 </h3>
 
 ## 📝 About Me
-A backend developer using PHP, JQuery, MySQL, and Git for version control. <br>
-<li> 📖 I'm Currently Learning Laravel </li>
+A backend developer using PHP, JQuery, MySQL, Laravel and Git for collaboration. <br>
+<li> 📖 I'm Currently Learning Javascript, NodeJS, ExpressJS </li>
 <li> 📝 Maintainer in <a href="https://github.com/bellshade"> Bellshade </a> for Docs repositories <a href="https://github.com/bellshade/SQL">SQL</a> and <a href="https://github.com/bellshade/Assembly">Assembly</a></li>
 <li> Follow Me <br> </li>
 <li>
